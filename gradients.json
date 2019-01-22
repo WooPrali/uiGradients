@@ -1,5 +1,5 @@
-[
-    {
+[    
+	{
         "name": "Blu",
         "colors": ["#00416A", "#E4E5E6"]
     },
@@ -1339,5 +1339,9 @@
     {
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
+    },
+	{
+        "name": "Blu Prali",
+        "colors": ["#5433ff", "#ffccf2", "#2f80ed", "#a5fecb"]
     }
 ]
